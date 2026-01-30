@@ -14,42 +14,42 @@ We meet **every week on Fridays at 2:00 PM ET**.
 <summary><strong>Spring 2026</strong></summary>
 
 | Presenter | Date | Paper |
-|:----------|------|:-----:|
-| Caleb Charpentier | January 30, 2026 | <p align="center"><a href="https://www.journals.uchicago.edu/doi/abs/10.1086/740145" target="_blank">The geometry of macroevolution: phenotypic evolution on non-Euclidean manifolds</a></p> |
-| | February 6 | <p align="center"></p> |
-| | February 13 | <p align="center"></p> |
-| | February 20 | <p align="center"></p> |
-| | February 27 | <p align="center"></p> |
-| | March 6 | <p align="center"></p> |
+|------------|------|-------|
+| Caleb Charpentier | January 30, 2026 | <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/740145" target="_blank">The geometry of macroevolution: phenotypic evolution on non-Euclidean manifolds</a> |
+| | February 6 | <p align="center">—</p> |
+| | February 13 | <p align="center">—</p> |
+| | February 20 | <p align="center">—</p> |
+| | February 27 | <p align="center">—</p> |
+| | March 6 | <p align="center">—</p> |
 | Spring Break | March 13 | <p align="center">—</p> |
-| | March 20 | <p align="center"></p> |
-| | March 27 | <p align="center"></p> |
-| | April 3 | <p align="center"></p> |
-| | April 10 | <p align="center"></p> |
-| | April 17 | <p align="center"></p> |
-| | April 24 | <p align="center"></p> |
-| | May 1 | <p align="center"></p> |
+| | March 20 | <p align="center">—</p> |
+| | March 27 | <p align="center">—</p> |
+| | April 3 | <p align="center">—</p> |
+| | April 10 | <p align="center">—</p> |
+| | April 17 | <p align="center">—</p> |
+| | April 24 | <p align="center">—</p> |
+| | May 1 | <p align="center">—</p> |
 </details>
 
 <details>
 <summary><strong>Fall 2025</strong></summary>
 
 | Presenter | Date | Paper |
-|:----------|------|:-----:|
-| Josef/Opener | September 5 | <p align="center"></p> |
-| Caleb | September 12 | <p align="center"></p> |
-| Emma | September 19 | <p align="center"></p> |
-| CANCELLED | September 26 | <p align="center"></p> |
-| Turner | October 3 | <p align="center"></p> |
-| Olivia | October 10 | <p align="center"></p> |
-| Fall Break Weekend | October 17 | <p align="center"></p> |
-| Eliza | October 24 | <p align="center"></p> |
-| Shih-Na | October 31 | <p align="center"></p> |
-| Orlando | November 7 | <p align="center"></p> |
-| Neha | November 14 | <p align="center"></p> |
-| Kathy | November 21 | <p align="center"></p> |
-| Thanksgiving Break | November 28 | <p align="center"></p> |
-| Roberto | December 5 | <p align="center"></p> |
+|------------|------|-------|
+| Josef/Opener | September 5 | <p align="center">—</p> |
+| Caleb | September 12 | <p align="center">—</p> |
+| Emma | September 19 | <p align="center">—</p> |
+| CANCELLED | September 26 | <p align="center">—</p> |
+| Turner | October 3 | <p align="center">—</p> |
+| Olivia | October 10 | <p align="center">—</p> |
+| Fall Break Weekend | October 17 | <p align="center">—</p> |
+| Eliza | October 24 | <p align="center">—</p> |
+| Shih-Na | October 31 | <p align="center">—</p> |
+| Orlando | November 7 | <p align="center">—</p> |
+| Neha | November 14 | <p align="center">—</p> |
+| Kathy | November 21 | <p align="center">—</p> |
+| Thanksgiving Break | November 28 | <p align="center">—</p> |
+| Roberto | December 5 | <p align="center">—</p> |
 </details>
 
 <details>
@@ -76,22 +76,22 @@ We meet **every week on Fridays at 2:00 PM ET**.
 <summary><strong>Fall 2024</strong></summary>
 
 | Presenter | Date | Paper |
-|:----------|------|:-----:|
-| Mason/Opener | August 30 | <p align="center"></p> |
-| Caleb | September 6 | <p align="center"></p> |
-| Brian Waldron | September 13 | <p align="center"></p> |
-| Katherine Porras | September 20 | <p align="center"></p> |
-| Caitlin Miller | September 27 | <p align="center"></p> |
-| Bailey Howell | October 4 | <p align="center"></p> |
-| Fall Break Weekend | October 11 | <p align="center"></p> |
-| Camilo | October 18 | <p align="center"></p> |
-| Orlando | October 25 | <p align="center"></p> |
-| Jay Margolis | November 1 | <p align="center"></p> |
-| Neha Tiwari | November 8 | <p align="center"></p> |
-| Tincho | November 15 | <p align="center"></p> |
-| Benedicta | November 22 | <p align="center"></p> |
-| Thanksgiving Break | November 29 | <p align="center"></p> |
-| Eliza Tarimo | December 6 | <p align="center"></p> |
+|------------|------|-------|
+| Mason/Opener | August 30 | <p align="center">—</p> |
+| Caleb | September 6 | <p align="center">—</p> |
+| Brian Waldron | September 13 | <p align="center">—</p> |
+| Katherine Porras | September 20 | <p align="center">—</p> |
+| Caitlin Miller | September 27 | <p align="center">—</p> |
+| Bailey Howell | October 4 | <p align="center">—</p> |
+| Fall Break Weekend | October 11 | <p align="center">—</p> |
+| Camilo | October 18 | <p align="center">—</p> |
+| Orlando | October 25 | <p align="center">—</p> |
+| Jay Margolis | November 1 | <p align="center">—</p> |
+| Neha Tiwari | November 8 | <p align="center">—</p> |
+| Tincho | November 15 | <p align="center">—</p> |
+| Benedicta | November 22 | <p align="center">—</p> |
+| Thanksgiving Break | November 29 | <p align="center">—</p> |
+| Eliza Tarimo | December 6 | <p align="center">—</p> |
 </details>
 
 ## 📚 Shared Resources
