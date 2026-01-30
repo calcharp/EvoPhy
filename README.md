@@ -21,7 +21,7 @@ We meet **every week on Fridays at 2:00 PM ET**.
 | | February 20 | |
 | | February 27 | |
 | | March 6 | |
-| Spring Break | March 13 | |
+| Spring Break | March 13 | — |
 | | March 20 | |
 | | March 27 | |
 | | April 3 | |
