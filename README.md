@@ -1,4 +1,4 @@
-# Evo Reading Group
+# EvoPhy Reading Group
 
 Welcome to the EvoPhy Reading Group! 
 
