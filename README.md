@@ -16,7 +16,6 @@ We meet **every week on Fridays at 2:00 PM ET**.
 | Presenter | Date | Paper |
 |------------|------|-------|
 | Caleb Charpentier | January 30, 2026 | <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/740145" target="_blank">The geometry of macroevolution: phenotypic evolution on non-Euclidean manifolds</a> |
-| | February 6 | <p align="center">—</p> |
 | | February 13 | <p align="center">—</p> |
 | | February 20 | <p align="center">—</p> |
 | | February 27 | <p align="center">—</p> |
