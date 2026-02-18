@@ -6,7 +6,7 @@ Welcome to the EvoPhy Reading Group!
 
 We meet **every week on Fridays at 2:00 PM ET**.
 - 🔗 <a href="https://virginiatech.zoom.us/j/82495070312" target="_blank">Join Zoom Meeting</a>
-- 📄 <a href="https://docs.google.com/spreadsheets/d/1qJhPy1plF5oSvXWcRVy9DtpOzMHJ0QA2WbWmpC8JWlY/edit?gid=0#gid=0" target="_blank">View Schedule (Google Sheet)</a>
+- 📄 <a href="docs.google.com/spreadsheets/d/1qJhPy1plF5oSvXWcRVy9DtpOzMHJ0QA2WbWmpC8JWlY/edit?gid=0#gid=0" target="_blank">View Schedule (Google Sheet)</a>
 
 ## 🧾 Past Meetings
 
