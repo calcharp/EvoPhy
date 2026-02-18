@@ -17,7 +17,7 @@ We meet **every week on Fridays at 2:00 PM ET**.
 |------------|------|-------|
 | Caleb Charpentier | January 30, 2026 | <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/740145" target="_blank">The geometry of macroevolution: phenotypic evolution on non-Euclidean manifolds</a> |
 | Eliza Tarimo | February 13 | <a href="https://www.nature.com/articles/s41598-023-43070-5">Correlation between the presence of a cecal appendix and reduced diarrhea severity in primates</a> |
-| | February 20 | <p align="center">—</p> |
+| | February 20 | <a href="https://www.pnas.org/doi/10.1073/pnas.2519469122?">The variability of evolvability: Properties of dynamic fitness landscapes determine how phenotypic variability evolves</a> |
 | | February 27 | <p align="center">—</p> |
 | | March 6 | <p align="center">—</p> |
 | Spring Break | March 13 | <p align="center">—</p> |
