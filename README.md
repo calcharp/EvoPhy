@@ -20,7 +20,7 @@ We meet **every week on Fridays at 2:00 PM ET**.
 | Eliza Tarimo | February 13 | <a href="https://www.nature.com/articles/s41598-023-43070-5">Correlation between the presence of a cecal appendix and reduced diarrhea severity in primates</a> |
 | Shih-Na Liu | February 20 | <a href="https://www.pnas.org/doi/10.1073/pnas.2519469122?">The variability of evolvability: Properties of dynamic fitness landscapes determine how phenotypic variability evolves</a> |
 | Jeremy Draghi | February 27 | <a href="https://www.science.org/doi/full/10.1126/science.adr2756">Experimental evolution of evolvability</a> |
-| | March 6 | <a href="https://doi.org/10.1038/s41540-023-00293-6">A deep learning approach for morphological feature extraction  based on variational auto-encoder: an application to mandible shape</a> |
+| Caleb Charpentier | March 6 | <a href="https://doi.org/10.1038/s41540-023-00293-6">A deep learning approach for morphological feature extraction  based on variational auto-encoder: an application to mandible shape</a> |
 | Spring Break | March 13 | <p align="center">—</p> |
 | | March 20 | <p align="center">—</p> |
 | | March 27 | <p align="center">—</p> |
