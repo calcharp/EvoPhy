@@ -22,9 +22,9 @@ We meet **every week on Fridays at 2:00 PM ET**.
 | Jeremy Draghi | February 27 | <a href="https://www.science.org/doi/full/10.1126/science.adr2756">Experimental evolution of evolvability</a> |
 | Caleb Charpentier | March 6 | <a href="https://doi.org/10.1038/s41540-023-00293-6">A deep learning approach for morphological feature extraction  based on variational auto-encoder: an application to mandible shape</a> |
 | Spring Break | March 13 | <p align="center">—</p> |
-| | March 20 | <p align="center">—</p> |
-| | March 27 | <p align="center">—</p> |
-| | April 3 | <p align="center">—</p> |
+| Kathy | March 20 | <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/joa.14005">Comparative morphology of oral glands in snakes of the family Homalopsidae reveals substantial variation and additional independent origins of salt glands within Serpentes</a> |
+| Emma | March 27 | <a href="https://doi.org/10.1002/evl3.251">A neglected conceptual problem regarding phenotypic plasticity's role in adaptive evolution: The importance of genetic covariance and social drive </a> |
+| Jay Margolis| March 27 | <a href="https://doi.org/10.1016/j.yhbeh.2016.05.015">Divergence along the gonadal steroidogenic pathway: Implications for hormone-mediated phenotypic evolution </a> |
 | | April 10 | <p align="center">—</p> |
 | | April 17 | <p align="center">—</p> |
 | | April 24 | <p align="center">—</p> |
