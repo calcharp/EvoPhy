@@ -24,7 +24,7 @@ We meet **every week on Fridays at 2:00 PM ET**.
 | Spring Break | March 13 | <p align="center">—</p> |
 | Kathy | March 20 | <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/joa.14005">Comparative morphology of oral glands in snakes of the family Homalopsidae reveals substantial variation and additional independent origins of salt glands within Serpentes</a> |
 | Emma | March 27 | <a href="https://doi.org/10.1002/evl3.251">A neglected conceptual problem regarding phenotypic plasticity's role in adaptive evolution: The importance of genetic covariance and social drive </a> |
-| Jay Margolis| March 27 | <a href="https://doi.org/10.1016/j.yhbeh.2016.05.015">Divergence along the gonadal steroidogenic pathway: Implications for hormone-mediated phenotypic evolution </a> |
+| Jay Margolis| April 3 | <a href="https://doi.org/10.1016/j.yhbeh.2016.05.015">Divergence along the gonadal steroidogenic pathway: Implications for hormone-mediated phenotypic evolution </a> |
 | | April 10 | <p align="center">—</p> |
 | | April 17 | <p align="center">—</p> |
 | | April 24 | <p align="center">—</p> |
